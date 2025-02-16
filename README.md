@@ -6,7 +6,6 @@ Welcome to my GitHub! 🚀 I break things, fix them, and sometimes make them bet
 |**Portfolio**|                     |
 |---------|-------------------------|
 |**LinkedIn** |       [Vaidic Soni](http://linkedin.com/in/vaidic-soni1004/)       |
-|---------|-------------------------|
 |**Email**    |soni.vaidic3010@gmail.com|
 
 <!--
