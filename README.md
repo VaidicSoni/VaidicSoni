@@ -1,5 +1,5 @@
 ## Hey there! I'm Vaidic Soni aka Mad Scientist of Code 🧪
-Hey there! 👨‍💻 I'm a Computer Science student, tech enthusiast, and problem-solver who loves building creative and impactful projects. Whether it's AI experiments, sleek web apps, or fun side projects, I enjoy turning bold ideas into reality—one line of code at a time. Let's build something awesome!"
+Welcome to my Github! 👨‍💻 I'm a Computer Science student, tech enthusiast, and problem-solver who loves building creative and impactful projects. Whether it's AI experiments, sleek web apps, or fun side projects, I enjoy turning bold ideas into reality—one line of code at a time. Let's build something awesome!"
 
 <!--
 **VaidicSoni/VaidicSoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
