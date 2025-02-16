@@ -1,7 +1,7 @@
 ## Hey there! I'm Vaidic Soni aka Mad Scientist of Code 🧪
 Welcome to my GitHub! 🚀 I break things, fix them, and sometimes make them better. Passionate about coding, problem-solving, and turning wild ideas into reality. If it involves tech, creativity, and a little bit of chaos, count me in!
 
-## Let's Connect!🌐
+## Let's Connect!
 
 |**Portfolio**|                     |
 |---------|-------------------------|
