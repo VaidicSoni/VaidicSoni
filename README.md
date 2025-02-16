@@ -3,6 +3,8 @@ Welcome to my GitHub! 🚀 I break things, fix them, and sometimes make them bet
 
 ## Let's Connect!🌐
 
+<div align="center">
+
 |**Portfolio**|                     |
 |---------|-------------------------|
 |**LinkedIn** |[Vaidic Soni](http://linkedin.com/in/vaidic-soni1004/)|
