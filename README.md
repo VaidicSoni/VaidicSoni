@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaidic</h1>
-<h3 align="center">Hi! I'm a sophomore at Texas State University studying Computer Science. I'm passionate about software development, algorithms, and system design, and I enjoy working on projects that challenge my problem-solving skills. Currently, I'm building a grants portfolio management system using Node.js, Java, and Spring Boot, while also improving my Data Structures & Algorithms (DSA) skills in Python. I'm actively looking for exciting internships or collaborative projects in software development, cloud computing, or blockchain, as well as open-source contributions and networking opportunities.</h3>
+<h3 align="center">Hi! I'm a sophomore at Texas State University studying Computer Science. I'm passionate about software development, algorithms, and system design, and I enjoy working on projects that challenge my problem-solving skills.</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaidic-soni1004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaidic-soni1004" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaidic-soni1004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaidic-soni1004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
