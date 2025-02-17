@@ -1,5 +1,6 @@
 # 💫 About Me:
 Writing code, solving problems, and debugging my way through Texas State University as a Computer Science sophomore. Passionate about software development, algorithms, and system design, I turn coffee into code and challenges into opportunities.🚀💻
+
 <br>🔭 I’m currently working on My Personal Portfolio<br><br>🌱 I’m currently learning Frontend Development and Data Structures<br><br>⚡ Fun fact I can print "Hello World"<br><br>
 
 
