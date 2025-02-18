@@ -8,7 +8,7 @@
 
 ---
 
-### 💡 About Me: <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh4aGx6ZjZhbXlucDVyOXNpZ3J6dDZibG10Z2h5eTRiaGZ2Z2g4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZUcWtrNqs9Nu/giphy.gif" width="50px"/>
+### 💡 About Me: <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh4aGx6ZjZhbXlucDVyOXNpZ3J6dDZibG10Z2h5eTRiaGZ2Z2g4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZUcWtrNqs9Nu/giphy.gif" width="70px"/>
 - 🔭 I’m currently working on **My Personal Portfolio**
 - 🌱 I’m learning **Frontend Development & Data Structures**
 - ⚡ Fun fact: I can print **"Hello World"** in over 5 languages! 😆
