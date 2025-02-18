@@ -17,7 +17,7 @@
 
 ### 🌐 Connect with Me: <img src="https://media.giphy.com/media/zzazU6TjhLzYBBQSRS/giphy.gif?cid=790b7611lb9hfzmt5611pnxxpmikzkpiucupu9xfmni4la2n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70px"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaidic-soni1004/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: soni.vaidic3010@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soni.vaidic3010@gmail.com)
 
 ---
 
