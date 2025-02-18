@@ -8,20 +8,20 @@
 
 ---
 
-### 💡 About Me:
+### 💡 About Me: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 - 🔭 I’m currently working on **My Personal Portfolio**
 - 🌱 I’m learning **Frontend Development & Data Structures**
 - ⚡ Fun fact: I can print **"Hello World"** in over 5 languages! 😆
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me: <img src="https://media.giphy.com/media/j5hJdS3p07piZAnvBi/giphy.gif" width="30px"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaidic-soni1004/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](soni.vaidic3010@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](soni.vaidic3010@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack: <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30px"/>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,18 +33,10 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: <img src="https://media.giphy.com/media/l4FGvWROU8feGsdU4/giphy.gif" width="30px"/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-### 🚀 Fun Animations & Badges
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" height="200"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VaidicSoni&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaidicSoni&theme=tokyonight" height="180px"/>
 </p>
 
 ```diff
