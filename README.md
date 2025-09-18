@@ -35,10 +35,7 @@
 ---
 
 ### 📊 GitHub Stats: <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29lZWM4N3VzYmt1NXdqeXh2enkwZHRqOXQ5dXh4a2Y4aXRuYWxzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZJVwp7vh7kz2el7Np/giphy.gif" width="70px"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaidicSoni&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaidicSoni&theme=tokyonight" height="180px"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VaidicSoni&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="umangahuja1" /></p>
 
 ```diff
 - Warning: Messing with my code may cause unexpected behavior! 😂
