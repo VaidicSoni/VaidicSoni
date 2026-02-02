@@ -8,9 +8,11 @@
 
 ### 📊 GitHub Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
 
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VaidicSoni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VaidicSoni&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaidicSoni&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidicSoni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaidicSoni&theme=tokyonight"/>
 </p>
 
 ---
