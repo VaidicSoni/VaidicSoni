@@ -6,16 +6,6 @@
 ```
 ---
 
-### 📊 GitHub Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidicSoni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaidicSoni&theme=tokyonight"/>
-</p>
-
----
-
 ### 💡 About Me: <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh4aGx6ZjZhbXlucDVyOXNpZ3J6dDZibG10Z2h5eTRiaGZ2Z2g4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZUcWtrNqs9Nu/giphy.gif" width="70px"/>
 - 🔭 I'm currently working on **AI-powered applications and system design projects**
 - 🌱 I'm learning **Swift, Firebase, and Advanced Data Structures & Algorithms**
