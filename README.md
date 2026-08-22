@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm **Vaidic Soni**
 ```diff
-+ Computer Science student at Texas State University with a perfect 4.0 GPA
++ Computer Science student at Texas State University with a 3.97 GPA
 + Full Stack Developer | AI Enthusiast | Problem Solver
 + I turn coffee into code and challenges into opportunities! 🚀💻
 ```
@@ -9,7 +9,7 @@
 ### 💡 About Me: <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh4aGx6ZjZhbXlucDVyOXNpZ3J6dDZibG10Z2h5eTRiaGZ2Z2g4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZUcWtrNqs9Nu/giphy.gif" width="70px"/>
 - 🔭 I'm currently working on **AI-powered applications and system design projects**
 - 🌱 I'm learning **Swift, Firebase, and Advanced Data Structures & Algorithms**
-- 🎓 Computer Science Major with minors in **Mathematics** and **Data Analytics**
+- 🎓 Computer Science Major with minors in **Applied Mathematics** and **Data Analytics**
 - 🏆 Google Maps Platform Hackathon **Silver Prize Winner**
 ---
 ### 🌐 Connect with Me: <img src="https://media.giphy.com/media/zzazU6TjhLzYBBQSRS/giphy.gif?cid=790b7611lb9hfzmt5611pnxxpmikzkpiucupu9xfmni4la2n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70px"/>
