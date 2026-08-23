@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2F81F7&height=120&section=header" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Vaidic Soni</h1>
 <h3 align="center">Senior @ Texas State University | Building things that solve real problems</h3>
 
@@ -11,61 +15,47 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Google+Maps+Platform+Hackathon+Winner+%F0%9F%8F%86;3.97+GPA+%7C+CS+%2B+Applied+Math;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Google+Maps+Platform+Hackathon+Winner+%F0%9F%8F%86;Always+Shipping+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 B.S. Computer Science (Applied Math & Data Analytics minor) @ **Texas State University**, Class of 2027
+- 🎓 B.S. Computer Science (Applied Mathematics & Data Analytics minor) @ **Texas State University**, Class of 2027
 - 🏆 One of **16 winning teams out of 4,000+** globally at the **Google Maps Platform Hackathon**
-- 🧩 I like building things end-to-end — from Firestore-backed iOS apps to geospatial pricing engines
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaidicSoni&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaidicSoni&theme=tokyo-night&hide_border=true" />
-</p>
+- 🛠️ I'm always pushing forward, learning new things, and working hard every single day toward my dream of becoming a Software Engineer.
 
 ---
 
 ### 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,js,mysql,swift,react,git,github,bitbucket,jira,docker,vscode,xcode" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VaidicSoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidicSoni&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1a1a2e&height=120&section=footer" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaidicSoni&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VaidicSoni&label=Profile%20Views&color=2F81F7&style=flat" />
-</p>
-
-<p align="center"><i>⭐️ From <b>Vaidic Soni</b> — thanks for stopping by!</i></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
